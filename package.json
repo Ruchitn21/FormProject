@@ -1,0 +1,16 @@
+{
+  "name": "form_backend",
+  "version": "1.0.0",
+  "description": "Backend For Amadeus Form",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Ruchit Nigam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
